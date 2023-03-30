@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogpopost.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogpopost.com/https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=740&t=st=1680189704~exp=1680190304~hmac=aa95aa22f954f7ea555976741a11338033464311cc3764e70be692383c4d98e4)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vivek Sunil jadhav</h1>
 <h3 align="center">A passionate Full stack web developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/2992131/file/original-c2ed0d98836d32ac4919f13967baf26f.png?compress=1&resize=752x">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e474l47n2tt8fbjfxhd8vvv9kgmm9l2wksiuwmouylo&rid=200.webp&ct=g">
 
 - 👨‍💻 All of my projects are available at [https://github.com/vivekjadhav7859/](https://github.com/vivekjadhav7859/)
 
@@ -21,4 +21,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekjadhav7859&show_icons=true&locale=en&layout=compact" alt="vivekjadhav7859" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekjadhav7859&" alt="vivekjadhav7859" /></p>
-
